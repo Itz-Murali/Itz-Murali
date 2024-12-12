@@ -1,57 +1,69 @@
 <p align="center"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=𝑴𝑼𝑹𝜜𝑳𝑰&height=100&section=header"/> 
- </p> 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=WELCOME+TO+MY+PROFILE&width=600&height=180" style="font-size: smaller;">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-[<img src="https://github-readme-stats.vercel.app/api?username=MysticalDevs&show_icons=true&theme=vision-friendly-dark" style="width: 98%;">](https://github.com/Itz-Murali)
-
-
-
-<p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-     <img align="middle" src="https://profile-counter.glitch.me/Itz-Murali/count.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=𝑴𝑼𝑹𝜜𝑳𝑰&height=120&section=header&fontSize=50&animation=fadeIn" /> 
 </p>
 
+<p align="center">
+  <img src="src/Picsart_24-12-07_16-50-45-678.png" width="150" style="border-radius: 50%; border: 2px solid #00FF00;" alt="Profile Picture" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🌟+Welcome+To+My+Magical+World!+🌟;✨+Coding+Explorer+On+A+Journey!+✨;🚀+Let's+Create+Something+Extraordinary!+🚀" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 # 🌟 About Me
 
-Hello! I'm **Murali** 👋, a passionate 16-year-old from the vibrant state of **Karnataka** 🌻. I'm on a journey to explore the world of coding, and while I'm not a pro coder yet, I'm learning every day! 
+Hello, Adventurers! 🌌  
+I'm **Murali**, A 16-Year-Old From The Vibrant Lands Of **Karnataka** 🌻.  
+I'm Currently On An Enchanting Journey, Learning The **Typescript Language** 🧙‍♂️,  
+Where I Wield The Power Of Code To Craft **Magical Bots** That Bring Ideas To Life! ✨  
 
-I have a love for **Python**, **HTML**, **CSS**, and **JavaScript** 🖥️. My favorite part? Creating stunning **Neon-Type Websites** that light up the digital world! 🌈✨
+I Have A Deep Love For **Python**, **Html**, **Css**, And **Javascript** 💻,  
+And I Specialize In Creating Mesmerizing **Neon-Style Websites** That Illuminate The Digital World! 🌈💡  
 
-Join me as I continue to grow and create in this amazing tech universe! 🚀
-
-
-If You Want to know more about me Click The Below Button 
+Step Into My Realm And Join Me As I Cast Spells Of Innovation, Creativity, And Discovery.  
+Together, Let's Light Up The Cosmos Of Technology! 🚀  
 
 <p align="center">
   <a href="https://Itz-Murali.github.io">
-    <img src="https://img.shields.io/badge/click%20me-007BFF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Click Here">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Website">
   </a>
 </p>
-<p align="center">
-  <a href="https://t.me/Itz-Murali"><img src="https://telegra.ph/file/9710d570029cb4aaecb50.jpg"></a>
-    </p>
-<p align="center">
 
+<h2 align="center">🔧 My Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript&theme=dark" />
 </p>
 
-<h3>
+<h2 align="center">📊 My Analytics</h2>
 
-<h1>ᴍʏ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=chartreuse-dark&hide_border=true&background=000000" width="98%" alt="GitHub Streak Stats">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="98%" alt="GitHub Stats">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=vision-friendly-dark" width="95%" alt="Top Languages">
+</p>
 
+<h2 align="center">👥 Profile Visitors</h2>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Itz-Murali/count.svg" alt="Profile Visitor Count">
+</p>
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/Itz-Murali)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&size_weight=0.0005&count_weight=0.5&layout=compact&theme=vision-friendly-dark" style="width: 95%;">](https://github.com/Itz-Murali)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
 
