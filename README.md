@@ -42,7 +42,7 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 <h2 align="center">📊 My Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=chartreuse-dark&hide_border=true&background=000000" width="98%" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=chartreuse-dark&hide_border=true&background=000000" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
