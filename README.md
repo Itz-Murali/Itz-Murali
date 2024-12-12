@@ -9,13 +9,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=MysticalDevs&show_icons=true&theme=vision-friendly-dark" style="width: 98%;">](https://github.com/MysticalDevs)
+[<img src="https://github-readme-stats.vercel.app/api?username=MysticalDevs&show_icons=true&theme=vision-friendly-dark" style="width: 98%;">](https://github.com/Itz-Murali)
 
 
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-     <img align="middle" src="https://profile-counter.glitch.me/MysticalDevs/count.svg" />
+     <img align="middle" src="https://profile-counter.glitch.me/Itz-Murali/count.svg" />
 </p>
 
 
@@ -31,12 +31,12 @@ Join me as I continue to grow and create in this amazing tech universe! 🚀
 If You Want to know more about me Click The Below Button 
 
 <p align="center">
-  <a href="https://MysticalDevs.github.io">
+  <a href="https://Itz-Murali.github.io">
     <img src="https://img.shields.io/badge/click%20me-007BFF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Click Here">
   </a>
 </p>
 <p align="center">
-  <a href="https://t.me/MysticDevs"><img src="https://telegra.ph/file/9710d570029cb4aaecb50.jpg"></a>
+  <a href="https://t.me/Itz-Murali"><img src="https://telegra.ph/file/9710d570029cb4aaecb50.jpg"></a>
     </p>
 <p align="center">
 
@@ -50,8 +50,8 @@ If You Want to know more about me Click The Below Button
 
 
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=MysticalDevs&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/MysticalDevs)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/Itz-Murali)
 
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalDevs&size_weight=0.0005&count_weight=0.5&layout=compact&theme=vision-friendly-dark" style="width: 95%;">](https://github.com/MysticalDevs)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&size_weight=0.0005&count_weight=0.5&layout=compact&theme=vision-friendly-dark" style="width: 95%;">](https://github.com/Itz-Murali)
 
