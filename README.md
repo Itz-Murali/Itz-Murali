@@ -42,11 +42,7 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 <h2 align="center">📊 My Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=chartreuse-dark&hide_border=true&background=000000" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="98%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub stats">
 </p>
 
 <p align="center">
