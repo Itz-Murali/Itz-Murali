@@ -57,7 +57,7 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 
 <div align = "center">
-    <img src = "https://github.com/Itz-Murali/Itz-Murali/src/Code.svg" alt= "y" width="450"/>
+    <img src = "https://github.com/Itz-Murali/Itz-Murali/blob/main/src/code.svg" alt= "y" width="450"/>
 </div>
 
 
