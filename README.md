@@ -55,6 +55,11 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
   <img src="https://profile-counter.glitch.me/Itz-Murali/count.svg" alt="Profile Visitor Count">
 </p>
 
+<div align = "center">
+    <img src = "Code.svg" alt= "y" width="450"/>
+</div>
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
