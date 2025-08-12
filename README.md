@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="src/Picsart_24-12-07_16-50-45-678.png" width="150" style="border-radius: 50%; border: 2px solid #00FF00;" alt="Profile Picture" />
+  <img src="src/main.png" width="300" alt="Profile Picture" />
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 # 🌟 About Me
 
 Hello, Adventurers! 🌌  
-I'm **Murali**, A 16-Year-Old From The Vibrant Lands Of **Karnataka** 🌻.  
+I'm **Murali**, A 17-Year-Old From The Vibrant Lands Of **Karnataka** 🌻.  
 I'm Currently On An Enchanting Journey, Learning The **Typescript Language** 🧙‍♂️,  
 Where I Wield The Power Of Code To Craft **Magical Bots** That Bring Ideas To Life! ✨  
 
