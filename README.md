@@ -41,6 +41,9 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 <h2 align="center">📊 My Analytics</h2>
 
+
+![5](https://git-stats-inky.vercel.app/api/stats?username=itz-Murali)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub stats">
 </p>
