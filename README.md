@@ -39,6 +39,15 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
   <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript&theme=dark" />
 </p>
 
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+
+
+
 <h2 align="center">📊 My Analytics</h2>
 
 <p align="center">
