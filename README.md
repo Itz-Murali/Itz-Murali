@@ -41,6 +41,9 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 <h2 align="center">📊 My Analytics</h2>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=vision-friendly-dark&hide_border=true&count_private=true" width="100%" alt="GitHub Streak Stats" />
+</p>
 
 
 <p align="center">
