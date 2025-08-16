@@ -50,8 +50,9 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats">
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=vision-friendly-dark" width="95%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=vision-friendly-dark&include_all_commits=true&langs_count=17" width="95%" alt="Top Languages">
 </p>
 
 <h2 align="center">👥 Profile Visitors</h2>
