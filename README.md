@@ -40,6 +40,13 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">📊 My Analytics</h2>
