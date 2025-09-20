@@ -59,10 +59,8 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 <h2 align="center">👥 Profile Visitors</h2>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Itz-Murali/count.svg" alt="Profile Visitor Count">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itz-Murali&label=Profile%20views&color=green&style=flat" alt="Profile Views"/>
 </p>
-
 
 <div align = "center">
     <img src = "https://github.com/Itz-Murali/Itz-Murali/blob/main/src/code.svg" alt= "y" width="450"/>
