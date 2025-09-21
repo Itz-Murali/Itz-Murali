@@ -44,17 +44,17 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 <h2 align="center">📊 My Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=vision-friendly-dark&hide_border=true&count_private=true" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=dracula&hide_border=true&count_private=true" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats&hide=prs" width="100%" alt="GitHub stats">
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=vision-friendly-dark&include_all_commits=true&langs_count=17" width="95%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=dracula&include_all_commits=true&langs_count=17" width="95%" alt="Top Languages">
 </p>
 
 <h2 align="center">👥 Profile Visitors</h2>
