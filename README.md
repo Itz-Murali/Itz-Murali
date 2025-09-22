@@ -54,7 +54,7 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=dracula&include_all_commits=true&langs_count=17" width="95%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=dracula&include_all_commits=true&langs_count=30" width="95%" alt="Top Languages">
 </p>
 
 <h2 align="center">👥 Profile Visitors</h2>
