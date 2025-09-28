@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=𝑴𝑼𝑹𝜜𝑳𝑰&height=120&section=header&fontSize=50&animation=fadeIn" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=𝐌%20𝐔%20𝐑%20𝚨%20𝐋%20𝐈&height=120&section=header&fontSize=50&animation=fadeIn" /> 
 </p>
 
 <p align="center">
