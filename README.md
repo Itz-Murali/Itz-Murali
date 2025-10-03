@@ -18,8 +18,8 @@
 
 Hello, Adventurers! 🌌  
 I'm **Murali**, A 17-Year-Old From The Vibrant Lands Of **Karnataka** 🌻.  
-I'm Currently On An Enchanting Journey, Learning The **Typescript Language** 🧙‍♂️,  
-Where I Wield The Power Of Code To Craft **Magical Bots** That Bring Ideas To Life! ✨  
+Now I'll Mostly Works With Private Repositories , Private Contribution, Private Organisations 💀 
+Where I Wield The Power Of Code To Craft **Magical Bots, Websites, Apis etc** That Bring Ideas To Life! ✨  
 
 I Have A Deep Love For **Python**, **Html**, **Css**, And **Javascript** 💻,  
 And I Specialize In Creating Mesmerizing **Neon-Style Websites** That Illuminate The Digital World! 🌈💡  
