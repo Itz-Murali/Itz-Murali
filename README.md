@@ -41,16 +41,19 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 
 
-<h2 align="center">📊 My Analytics</h2>
+<h2 align="center">📊 My Github Stats</h2>
+
+<!-- Dont Use This In Your Project-->
+<p align="center">
+  <img src="https://murali-git-stats.vercel.app/api?username=itz-Murali" width="100%" alt="GitHub stats">
+</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=dracula&hide_border=true&count_private=true" width="100%" alt="GitHub Streak Stats" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Murali&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats&hide=prs" width="100%" alt="GitHub stats">
-</p>
 
 
 <p align="center">
