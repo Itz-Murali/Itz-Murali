@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="src/main.png" width="300" alt="Profile Picture" />
+  <img src="https://vecel-my-image.vercel.app/api" width="300" alt="Profile Picture" />
 </p>
 
 <div align="center">
