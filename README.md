@@ -43,9 +43,8 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 <h2 align="center">📊 My Github Stats</h2>
 
-<!-- Dont Use This In Your Project-->
 <p align="center">
-  <img src="https://murali-git-stats.vercel.app/api?username=itz-Murali" width="100%" alt="GitHub stats">
+  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/overview.svg" width="100%" alt="GitHub stats">
 </p>
 
 
@@ -57,7 +56,7 @@ Together, Let's Light Up The Cosmos Of Technology! 🚀
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Murali&layout=compact&theme=dracula&include_all_commits=true&langs_count=20" width="95%" alt="Top Languages">
+  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/languages.svg" width="95%" alt="Top Languages">
 </p>
 
 <h2 align="center">👥 Profile Visitors</h2>
