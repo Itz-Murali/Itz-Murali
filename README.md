@@ -1,79 +1,86 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=𝐌%20𝐔%20𝐑%20𝚨%20𝐋%20𝐈&height=120&section=header&fontSize=50&animation=fadeIn" /> 
-</p>
 
 <p align="center">
-  <img src="https://vecel-my-image.vercel.app/api" width="300" alt="Profile Picture" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=140&section=header&text=𝐌%20𝐔%20𝐑%20𝚨%20𝐋%20𝐈&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🌟+Welcome+To+My+Magical+World!+🌟;✨+Coding+Explorer+On+A+Journey!+✨;🚀+Lets+Create+Something+Extraordinary!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🌟+Welcome+To+My+Magical+World!+🌟;✨+Coding+Explorer+On+A+Journey!+✨;🚀+Let's+Create+Something+Extraordinary!+🚀"/>
 </div>
 
+
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://vecel-my-image.vercel.app/api" width="320" height="320" style="border-radius:50%;" alt="Profile Picture" />
 </p>
 
-# 🌟 About Me
+---
 
-Hello, Adventurers! 🌌  
-I'm **Murali**, A 17-Year-Old From The Vibrant Lands Of **Karnataka** 🌻.  
-Now I'll Mostly Works With Private Repositories , Private Contribution, Private Organisations 💀 
-Where I Wield The Power Of Code To Craft **Magical Bots, Websites, Apis etc** That Bring Ideas To Life! ✨  
+## 🌈 About Me  
 
-I Have A Deep Love For **Python**, **Html**, **Css**, And **Javascript** 💻,  
-And I Specialize In Creating Mesmerizing **Neon-Style Websites** That Illuminate The Digital World! 🌈💡  
+> ✨ *“Turning code into colorful dreams.”* ✨  
 
-Step Into My Realm And Join Me As I Cast Spells Of Innovation, Creativity, And Discovery.  
-Together, Let's Light Up The Cosmos Of Technology! 🚀  
+Hey there! I’m **Murali**, a 17-year-old **Developer from Karnataka** 🌻  
+I craft **Neon-Style Websites**, **Magical Bots**, and **Creative APIs** ⚡  
+Every line of my code adds a little sparkle to the digital world 💻🌟  
+
+💠 **Languages I Use:** Python 🐍 | HTML 💫 | CSS 🎨 | JavaScript ⚙️ | TypeScript ⚡  
+💠 **My Current Realm:** Private Repos, Hidden Projects, and Secret Tech Magic 🔮  
+💠 **Goal:** To Be The Very Best Like No One Ever Was 🚀  
 
 <p align="center">
   <a href="https://Itz-Murali.github.io">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Website">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
   </a>
+  
 </p>
 
-<h2 align="center">🔧 My Skills</h2>
+---
+
+## ⚙️ Tech Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,swift,rust,ruby,react,mongo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,ruby,rust,swift,mongo,tailwind,vscode&theme=dark"/>
 </p>
 
+---
 
+## 📊 GitHub Stats  
 
-<h2 align="center">📊 My Github Stats</h2>
+<p align="center">  
+  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/overview.svg" width="100%" alt="GitHub stats">  
+</p>  
+  
+  
+  
+  
+  
+  
+<p align="center">  
+  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/languages.svg" width="95%" alt="Top Languages">  
+</p>  
+  
+
+---
+
+## 💻 My Achievements 
 
 <p align="center">
-  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/overview.svg" width="100%" alt="GitHub stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itz-Murali&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
+---
+
+## 👀 Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Itz-Murali&label=Visitors&color=0078D4&style=for-the-badge"/>
+</p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Murali&theme=dracula&hide_border=true&count_private=true" width="100%" alt="GitHub Streak Stats" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/languages.svg" width="95%" alt="Top Languages">
-</p>
-
-<h2 align="center">👥 Profile Visitors</h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itz-Murali&label=Profile%20views&color=green&style=flat" alt="Profile Views"/>
-</p>
-
-<div align = "center">
-    <img src = "https://github.com/Itz-Murali/Itz-Murali/blob/main/src/code.svg" alt= "y" width="450"/>
-</div>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github.com/Itz-Murali/Itz-Murali/blob/main/src/code.svg" width="450" alt="code-animation"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff00cc&height=120&section=footer"/>
 </p>
-
