@@ -76,9 +76,6 @@ Every line of my code adds a little sparkle to the digital world 💻🌟
   <img src="https://komarev.com/ghpvc/?username=Itz-Murali&label=Visitors&color=0078D4&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/tpp6eb.gif" alt="Pokemon Animation" width="600">
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff00cc&height=120&section=footer"/>
