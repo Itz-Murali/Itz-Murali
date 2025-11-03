@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://itz-murali-images.vercel.app/api" width="320" height="320" style="border-radius:50%;" alt="Profile Picture" />
+<img src="https://itz-murali-images.vercel.app/api" width="350" height="350" />
 </p>
 
 ---
