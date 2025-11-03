@@ -78,5 +78,9 @@ Every line of my code adds a little sparkle to the digital world 💻🌟
 
 
 <p align="center">
+  <img src="https://itz-murali-images.vercel.app/gif?t=123"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff00cc&height=120&section=footer"/>
 </p>
