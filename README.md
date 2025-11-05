@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://itz-murali-images.vercel.app/api" width="350" height="350" />
+<img src="https://itz-murali-images.vercel.app/api" width="350" height="350" alt="profile picture" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Every line of my code adds a little sparkle to the digital world 💻🌟
 
 
 <p align="center">
-  <img src="https://itz-murali-images.vercel.app/gif?t=123"/>
+  <img src="https://itz-murali-images.vercel.app/gif?t=123" alt="random gif" />
 </p>
 
 <p align="center">
