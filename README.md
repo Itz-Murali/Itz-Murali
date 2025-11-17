@@ -81,6 +81,8 @@ Every line of my code adds a little sparkle to the digital world 💻🌟
   <img src="https://itz-murali-images.vercel.app/gif?t=123" alt="random gif" />
 </p>
 
+<img src="https://meera-quote-api.vercel.app/" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff00cc&height=120&section=footer"/>
 </p>
