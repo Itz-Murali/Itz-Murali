@@ -19,7 +19,7 @@
 
 > ✨ *“Turning code into colorful dreams.”* ✨  
 
-Hey there! I’m **Murali**, a 17-year-old **Developer from Karnataka** 🌻  
+Hey there! I’m **Murali**, a 17-year-old **Student from Karnataka** 🌻  
 I craft **Neon-Style Websites**, **Magical Bots**, and **Creative APIs** ⚡  
 Every line of my code adds a little sparkle to the digital world 💻🌟  
 
