@@ -28,7 +28,7 @@ But Currently I'm OFFLINE
 💠 **Goal:** To Be The Very Best Like No One Ever Was 🚀  
 
 <p align="center">
-  <a href="https://Itz-Murali.github.io">
+  <a href="https://Murali.vercel.app">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
   </a>
   
