@@ -14,18 +14,28 @@
 </p>
 
 ---
+## 👋 Hey, I'm Murali  
 
-## 🌈 About Me  
+A curious **student from Karnataka 🇮🇳** who enjoys building things on the web.  
+I like experimenting, breaking stuff, fixing it again, and learning something new every time 😄  
 
-> ✨ *“Turning code into colorful dreams.”* ✨  
+💡 I mostly work on:
+- Interactive & clean frontend websites  
+- Small but useful web tools  
+- Bots, scripts, and API-based projects  
 
-Hey there! I’m **Murali**, a 18-year-old **Student from Karnataka** 🌻  
-I craft **Neon-Style Websites**, **Magical Bots**, and **Creative APIs** ⚡  
-Every line of my code adds a little sparkle to the digital world 💻🌟  
-But Currently I'm OFFLINE 
+🧠 I believe in:
+- Learning by doing  
+- Keeping projects simple but meaningful  
+- Improving step by step, not overnight  
 
-💠 **Languages I Use:** Python 🐍 | HTML 💫 | CSS 🎨 | JavaScript ⚙️ | TypeScript ⚡  
-💠 **Goal:** To Be The Very Best Like No One Ever Was 🚀  
+🛠️ **Tech I often use:**  
+Python • HTML • CSS • JavaScript • TypeScript  
+
+🎯 **Currently focusing on:**  
+Sharpening my skills, building more projects, and becoming a better developer every day.  
+
+📌 *Status:* Sometimes online, sometimes lost in code 😌
 
 <p align="center">
   <a href="https://Murali.vercel.app">
