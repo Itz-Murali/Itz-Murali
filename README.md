@@ -26,19 +26,25 @@ I like experimenting, breaking stuff, fixing it again, and learning something ne
 
 🧠 I believe in:
 - Learning by doing  
-- Keeping projects simple but meaningful  
+- Keeping projects unique and modern style 
 - Improving step by step, not overnight  
 
 🛠️ **Tech I often use:**  
-Python • HTML • CSS • JavaScript • TypeScript  
+Python • HTML • CSS • JavaScript • TypeScript • React 
 
 🎯 **Currently focusing on:**  
-Sharpening my skills, building more projects, and becoming a better developer every day.  
+Sharpening my skills, building more projects, and becoming best like no one ever was
 
-📌 *Status:* Sometimes online, sometimes lost in code 😌
+📌 *Status:* OFFLINE 🔻
+
+
+
+## My Popular Projects 
+
+
 
 <p align="center">
-  <a href="https://Murali.vercel.app">
+  <a href="https://Itz-Murali.com">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
   </a>
   
