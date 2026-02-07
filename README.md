@@ -52,8 +52,6 @@ Sharpening my skills, building more projects, and becoming best like no one ever
 
 <p>
 A modern web-based music player that lets users stream and enjoy songs smoothly with a clean UI.
-Built for fast loading, easy navigation, and a pleasant listening experience.
-Supports multiple tracks and responsive design.
 </p>
 
 <a href="https://Chiku-music.com/">
@@ -70,7 +68,7 @@ Supports multiple tracks and responsive design.
 
 <p>
 An AI-powered platform offering smart automation tools and interactive AI utilities.
-Focused on improving productivity with intelligent responses and modern integrations.
+
 </p>
 
 <a href="https://Chiku-ai.com/">
