@@ -39,7 +39,7 @@ Sharpening my skills, building more projects, and becoming best like no one ever
 
 ---
 
-## 🌐 My Projects
+## 🌐 My Top Projects
 
 <table>
 <tr>
