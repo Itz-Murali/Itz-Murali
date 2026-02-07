@@ -43,6 +43,53 @@ Sharpening my skills, building more projects, and becoming best like no one ever
 
 
 
+<table>
+
+<tr>
+<td align="center" width="100%">
+
+<img src="src/chiku.png" width="120"><br><br>
+
+## 🎵 Chiku Music
+
+A modern web-based music player that lets users stream and enjoy songs smoothly with a clean UI.  
+Built for fast loading, easy navigation, and a pleasant listening experience.  
+Designed to support multiple tracks, responsive layout, and future feature expansions.
+
+<br>
+
+<a href="https://Chiku-music.com/">
+<img src="https://img.shields.io/badge/Visit-Chiku_Music-blue?style=for-the-badge&logo=google-chrome">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+
+<img src="src/main.jpg" width="120"><br><br>
+
+## 🤖 Chiku AI
+
+An AI-powered platform designed to provide smart tools, automation features, and interactive utilities.  
+Focused on enhancing productivity with intelligent responses, automation support, and modern AI integration.  
+Continuously evolving with new features and improvements.
+
+<br>
+
+<a href="https://Chiku-ai.com/">
+<img src="https://img.shields.io/badge/Visit-Chiku_AI-purple?style=for-the-badge&logo=google-chrome">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+
 <p align="center">
   <a href="https://Itz-Murali.com">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
