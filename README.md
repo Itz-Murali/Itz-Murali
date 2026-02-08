@@ -37,6 +37,14 @@ Sharpening my skills, building more projects, and becoming best like no one ever
 
 📌 *Status:* OFFLINE 🔻
 
+
+<p align="center">
+  <a href="https://itz-Murali.com">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
+  </a>
+  
+</p>
+
 ---
 
 ## 🌐 My Top Projects
