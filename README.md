@@ -74,9 +74,6 @@ Leveling up my skills, launching more projects, and becoming the very best — l
   <img src="https://codequote.vercel.app/api/quote.svg" alt="Random Quote"/>
 </p>
 
-<p align="center">
-  <img src="https://itz-murali-images.vercel.app/gif?t=123" alt="random gif"/>
-</p>
 
 ---
 
