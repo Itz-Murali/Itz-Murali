@@ -56,7 +56,7 @@ I don't just write code — I **experiment, break, rebuild, and repeat** until i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&border_radius=28&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers&section_spacing=6" />
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&theme=random&border_radius=28&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers&section_spacing=6" />
 </p>
 
 ---
