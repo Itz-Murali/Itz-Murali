@@ -22,7 +22,7 @@
 
 ## 🌟 About Me
 
-Hey there! I'm **Murali** — a self-taught developer and lifelong learner from **Karnataka, India 🇮🇳** i fell in love with building things on the internet.
+Hey there! I'm **Murali** a self-taught developer and lifelong learner from **Karnataka, India 🇮🇳** i fell in love with building things on the internet.
 
 I don't just write code — I **experiment, break, rebuild, and repeat** until it feels right. Every bug I squash teaches me something new, and every project I ship makes me a little sharper than yesterday.
 
@@ -35,19 +35,12 @@ I don't just write code — I **experiment, break, rebuild, and repeat** until i
 - 🎨 Clean, interactive & modern frontend experiences
 - 🧰 Small but mighty web tools that solve real problems
 - 🤖 Bots, scripts, and API-driven projects
-- 🫂 Contribute to open source projects 
+- 🫂 Helping others in code problems 
 
 **🧠 My Philosophy**
 - Learn by doing — tutorials are just the beginning
 - Style matters — code should look as good as it works
-- Progress > Perfection — one step at a time
-- Stay curious — the best devs never stop asking "why?"
 
-**🛠️ Tech Arsenal**
-`Python` • `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Tailwind`
-
-**🎯 Current Mission**
-Leveling up my skills, launching more projects, and becoming the very best — like no one ever was. ⚡
 
 
 ---
