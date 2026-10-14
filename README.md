@@ -18,7 +18,7 @@
 
 [![Itz-Murali GitHub Streak](https://anya-github-stats.vercel.app/api/streak?username=Itz-Murali&theme=tokyonight)](https://github.com/Itz-Murali)
 
-
+[![Itz-Murali GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&theme=tokyonight)](https://github.com/Itz-Murali)
 
 
 <p align="center">
