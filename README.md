@@ -11,8 +11,7 @@
 
 [![Itz-Murali GitHub Languages](https://anya-github-stats.vercel.app/api/langstack?username=Itz-Murali&theme=neon_red&limit=15&hide=Html%2Ccss)](https://github.com/Itz-Murali)
 
-
-[![Itz-Murali GitHub Pinned](https://anya-github-stats.vercel.app/api/pinned?username=Itz-Murali&theme=deep_sea)](https://github.com/Itz-Murali)
+[![Itz-Murali GitHub Pinned](https://anya-github-stats.vercel.app/api/pinned?username=Itz-Murali&theme=vaporwave)](https://github.com/Itz-Murali)
 
 
 [![Itz-Murali GitHub Contributions](https://anya-github-stats.vercel.app/api/contribution-act?username=Itz-Murali&theme=outrun&year=2026)](https://github.com/Itz-Murali)
