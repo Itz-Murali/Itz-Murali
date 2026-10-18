@@ -1,3 +1,7 @@
+
+<img src="https://anya-github-stats.vercel.app/api/typing?text=Hi+There%2C+Welcome+to+My+Github+Profile&font=Instrument+Serif&color=ffffff" alt="Typing" />
+
+
 [![Itz-Murali GitHub Banner](https://anya-github-stats.vercel.app/api/banner?username=Itz-Murali&theme=rainbow_dark&hide_stats=true)](https://github.com/Itz-Murali)
 
 
